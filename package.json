@@ -1,0 +1,19 @@
+{
+  "name": "heroku1",
+  "version": "1.0.0",
+  "description": "1312",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuan1312/heroku1.git"
+  },
+  "author": "tuan1312",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuan1312/heroku1/issues"
+  },
+  "homepage": "https://github.com/tuan1312/heroku1#readme"
+}
